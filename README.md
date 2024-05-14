@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephMiless
-- 👀 I’m interested in backend programming with the use of MySQL and PHP
+- 👀 I’m interested in backend programming with the use of MYSQL, JavaScript, Node.js, and PHP
 - 🌱 I’m currently learning backend programming
 - 💞️ I’m looking to collaborate on any kind of project that might help refine my backend development
 - 📫 How to reach me: ajayimiles73@gmail.com
